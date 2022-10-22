@@ -1,0 +1,47 @@
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
+
+title = "Skills"
+subtitle = ""
+
+# Showcase personal skills or business features.
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
+[[feature]]
+  svg = "/img/skills/gnubash.svg"
+  name = "Linux/Bash"
+  description = "20%"
+
+[[feature]]
+  svg = "/img/skills/r-svgrepo-com.svg"
+  name = "R"
+  description = "50%"
+
+[[feature]]
+  svg = "/img/skills/applications-perl-svgrepo-com.svg"
+  name = "Perl"
+  description = "30%"
+
+[[feature]]
+  svg = "/img/skills/ear-of-corn-svgrepo-com.svg"
+  name = "Corn"
+  description = "80%"
+
+[[feature]]
+  svg = "/img/skills/flamenco-female-dancer-silhouette-with-raised-right-arm-svgrepo-com.svg"
+  name = "Dance"
+  description = "10%"
+
+[[feature]]
+  svg = "/img/skills/game-svgrepo-com.svg"
+  name = "Game"
+  description = "10%"
+
++++

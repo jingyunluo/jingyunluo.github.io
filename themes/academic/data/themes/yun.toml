@@ -1,0 +1,18 @@
+# Theme metadata
+name = "yun"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#FFCCCC"
+
+# Menu
+menu_primary = "#FFFFFF"
+menu_text = "#000"
+menu_text_active = "#99CC99"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)"

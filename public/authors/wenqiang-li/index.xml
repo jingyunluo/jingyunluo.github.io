@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenqiang Li | Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/authors/wenqiang-li/</link>
+      <atom:link href="https://jingyunluo.github.io/authors/wenqiang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenqiang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>Wenqiang Li</title>
+      <link>https://jingyunluo.github.io/authors/wenqiang-li/</link>
+    </image>
+    
+    <item>
+      <title>Genome sequencing reveals evidence of adaptive variation in the genus Zea</title>
+      <link>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+// Override this file to add your own SCSS styling.
+
+html {
+  font-family: "Kaiti TC", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Kaiti TC", sans-serif;
+}
+
+
+
+.navbar {
+  background-color: $primary;
+  opacity: 0.8;
+}
+
+.ul-edu i {
+  color: $primary;
+}
+
+#navbar-main .main-menu-item ul li .nav-link {
+  color: gray;
+  font-size: 0.93rem;
+  &:hover {
+    color: #000;
+  }
+}
+
+.home-section {
+  padding: 10px;
+}
+
+footer {
+  margin: 40px;
+  padding: 0;
+}
+
+.font-has-color {
+  color: $primary;
+}
