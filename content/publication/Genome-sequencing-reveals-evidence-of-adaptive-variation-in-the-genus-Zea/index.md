@@ -36,7 +36,7 @@ authors:
 - Marilyn L. Warburton
 - Jeffrey Ross-Ibarra
 - Jianbing Yan
-date: "2022-10-23T00:00:00Z"
+date: "2022-10-20T00:00:00Z"
 doi: "https://doi.org/10.1038/s41588-022-01184-y"
 
 # Schedule page publish date (NOT publication's date).
@@ -65,7 +65,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'SSSS'
+url_pdf: '/files/Genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-Zea.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

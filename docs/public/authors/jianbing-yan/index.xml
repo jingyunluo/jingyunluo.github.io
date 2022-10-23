@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianbing Yan | Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/authors/jianbing-yan/</link>
+      <atom:link href="https://jingyunluo.github.io/authors/jianbing-yan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianbing Yan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>Jianbing Yan</title>
+      <link>https://jingyunluo.github.io/authors/jianbing-yan/</link>
+    </image>
+    
+    <item>
+      <title>Genome sequencing reveals evidence of adaptive variation in the genus Zea</title>
+      <link>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUBIC: an atlas of genetic architecture promises directed maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaizeCUBIC: a comprehensive variation database for a maize synthetic population</title>
+      <link>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

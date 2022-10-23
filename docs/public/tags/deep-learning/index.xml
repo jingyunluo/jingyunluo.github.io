@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/tags/deep-learning/</link>
+      <atom:link href="https://jingyunluo.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>Deep Learning</title>
+      <link>https://jingyunluo.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://jingyunluo.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/project/internal-project/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Waxy maize (Zea mays L. sinensis Kulesh), a popular fruit and vegetable crop as well as an important source of micronutrients in the human diet, has experienced domestication selection and subsequent genetic improvement during its long cultivation history, exhibiting significant divergence from modern regular maize. Comparative omics analyses between 318 waxy maize and 507 modern regular maize inbred lines revealed obviously divergence between waxy and regular maize. In order to deeply explore the metabolic basis of the flavor of waxy maize, over 1600 metabolites are qualified in the waxy maize population. Of which, totally 84 key metabolites were identified to significantly contribute to the fresh flavor of waxy maize based on a 100-people tasting experiment. These flavor-associated metabolites involved in sugar and sugar derivatives, amino acid-related and some secondary metabolites, a total of 458 candidate genes were discovered using genome-wide association study. These flavor-associated metabolites and key genes could explain totally 74% of the variation of waxy maize flavor. Our findings shed lights on the historical selection of waxy maize, demonstrate the genetic and metabolic basis of the fresh flavor of waxy maize, which provides useful resources and knowledge for the high nutritional maize breeding.&lt;/p&gt;
+&lt;h1 id=&#34;the-high-density-variant-map-of-waxy-and-regular-population&#34;&gt;The high-density variant map of waxy and regular population&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/xxx.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
