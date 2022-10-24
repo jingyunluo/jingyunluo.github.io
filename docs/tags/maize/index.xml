@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maize | Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/tags/maize/</link>
+      <atom:link href="https://jingyunluo.github.io/tags/maize/index.xml" rel="self" type="application/rss+xml" />
+    <description>maize</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>maize</title>
+      <link>https://jingyunluo.github.io/tags/maize/</link>
+    </image>
+    
+    <item>
+      <title>Metabolomic analysis reveals differences in evolution between maize and rice</title>
+      <link>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaizeCUBIC: a comprehensive variation database for a maize synthetic population</title>
+      <link>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize orthologs of rice GS5 and their trans-regulator are associated with kernel development</title>
+      <link>https://jingyunluo.github.io/publication/jipb-2015/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/jipb-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://jingyunluo.github.io/authors/min-deng/</link>
       <atom:link href="https://jingyunluo.github.io/authors/min-deng/index.xml" rel="self" type="application/rss+xml" />
     <description>Min Deng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jingyunluo.github.io/img/logo.gif</url>
       <title>Min Deng</title>
@@ -15,8 +15,40 @@
     <item>
       <title>Genome sequencing reveals evidence of adaptive variation in the genus Zea</title>
       <link>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</link>
-      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomic analysis reveals differences in evolution between maize and rice</title>
+      <link>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions of Zea mays subspecies mexicana haplotypes to modern maize</title>
+      <link>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic architecture of amino acids dissection by association and linkage analysis in maize</title>
+      <link>https://jingyunluo.github.io/publication/pbi-15-1250/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/pbi-15-1250/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize orthologs of rice GS5 and their trans-regulator are associated with kernel development</title>
+      <link>https://jingyunluo.github.io/publication/jipb-2015/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/jipb-2015/</guid>
       <description></description>
     </item>
     

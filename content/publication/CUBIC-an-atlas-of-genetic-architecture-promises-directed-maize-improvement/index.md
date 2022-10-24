@@ -38,7 +38,11 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "Genome Biology"
 publication_short: "*Genome Biol*"
-abstract: '<b>Background</b>: Identifying genotype-phenotype links and causative genes from quantitative trait loci (QTL) is challenging for complex agronomically important traits. To accelerate maize gene discovery and breeding, we present the Complete-diallel design plus Unbalanced Breeding-like Inter-Cross (CUBIC) population, consisting of 1404 individuals created by extensively inter-crossing 24 widely used Chinese maize founders.<br /> <b>Results</b>: Hundreds of QTL for 23 agronomic traits are uncovered with 14 million high-quality SNPs and a high-resolution identity-by-descent map, which account for an average of 75% of the heritability for each trait. We find epistasis contributes to phenotypic variance widely. Integrative cross-population analysis and cross-omics mapping allow effective and rapid discovery of underlying genes, validated here with a case study on leaf width. <br /><b>Conclusions</b>: Through the integration of experimental genetics and genomics, our study provides useful resources and gene mining strategies to explore complex quantitative traits.'
+abstract: '<b>Background</b>: Identifying genotype-phenotype links and causative genes from quantitative trait loci (QTL) is challenging for complex agronomically important traits. To accelerate maize gene discovery and breeding, we present the Complete-diallel design plus Unbalanced Breeding-like Inter-Cross (CUBIC) population, consisting of 1404 individuals created by extensively inter-crossing 24 widely used Chinese maize founders.
+<br /><br />
+<b>Results</b>: Hundreds of QTL for 23 agronomic traits are uncovered with 14 million high-quality SNPs and a high-resolution identity-by-descent map, which account for an average of 75% of the heritability for each trait. We find epistasis contributes to phenotypic variance widely. Integrative cross-population analysis and cross-omics mapping allow effective and rapid discovery of underlying genes, validated here with a case study on leaf width. 
+<br /><br />
+<b>Conclusions</b>: Through the integration of experimental genetics and genomics, our study provides useful resources and gene mining strategies to explore complex quantitative traits.'
 
 # Summary. An optional shortened abstract.
 
@@ -48,6 +52,8 @@ tags:
 - Genome-wide association mapping
 - Population development
 - Zea mays
+- CUBIC
+- WGS
 
 featured: false
 

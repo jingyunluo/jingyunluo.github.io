@@ -77,8 +77,123 @@
     <item>
       <title>Genome sequencing reveals evidence of adaptive variation in the genus Zea</title>
       <link>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</link>
-      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pan-Zea genome map for enhancing maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/guist_gb/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/guist_gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZEAMAP, a Comprehensive Database Adapted to the Maize Multi-Omics Era</title>
+      <link>https://jingyunluo.github.io/publication/zeamap/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/zeamap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomic analysis reveals differences in evolution between maize and rice</title>
+      <link>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target-oriented prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding</title>
+      <link>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genetic and metabolic roadmap to fresh flavor of waxy maize</title>
+      <link>https://jingyunluo.github.io/project/waxy/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/project/waxy/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Waxy maize (&lt;em&gt;Zea mays&lt;/em&gt; L. &lt;em&gt;sinensis Kulesh&lt;/em&gt;), a popular fruit and vegetable crop as well as an important source of micronutrients
+in the human diet, has experienced domestication selection and subsequent genetic improvement during its long cultivation
+history, exhibiting significant divergence from modern regular maize. Comparative omics analyses between 318 waxy maize and
+507 modern regular maize inbred lines revealed obviously divergence between waxy and regular maize. In order to deeply explore
+the metabolic basis of the flavor of waxy maize, over 1600 metabolites are qualified in the waxy maize population. Of which,
+totally 84 key metabolites were identified to significantly contribute to the fresh flavor of waxy maize based on a 100-people
+tasting experiment. These flavor-associated metabolites involved in sugar and sugar derivatives, amino acid-related and some
+secondary metabolites, a total of 458 candidate genes were discovered using genome-wide association study. These flavor-associated
+metabolites and key genes could explain totally 74% of the variation of waxy maize flavor. Our findings shed lights on the historical
+selection of waxy maize, demonstrate the genetic and metabolic basis of the fresh flavor of waxy maize, which provides useful resources
+and knowledge for the high nutritional maize breeding.&lt;/p&gt;
+&lt;h2 id=&#34;the-high-density-variant-map-of-waxy-and-regular-population&#34;&gt;The high-density variant map of waxy and regular population&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;population-structure-of-waxy-and-regular-population&#34;&gt;Population structure of waxy and regular population&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Waxy and regular maize population are relatively independent, and only a few materials “mixed”.&lt;/li&gt;
+&lt;li&gt;The genetic distance is closer between waxy maize with temperate maize lines compared to tropical ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;divergence-on-genomic-and-transcriptional-level&#34;&gt;Divergence on genomic and transcriptional level&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The fixation index value between two panel was 0.025, suggesting the obvious divergence.&lt;/li&gt;
+&lt;li&gt;~39M regions were identified.&lt;/li&gt;
+&lt;li&gt;4462 genes were selection candidates.&lt;/li&gt;
+&lt;li&gt;3365 genes were found differentially expressed in two panels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_03.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;divergent-pathways&#34;&gt;Divergent pathways&lt;/h2&gt;
+&lt;p&gt;Besides the famous known gene waxy1 and starch related pathway, many genes and pathways such as benzoxazinoid and brassinosteroid pathways exhibited to be selected during the breeding history of waxy maize. These divergence in metabolic pathways is probably due to artificial selection of flavor-associated traits of waxy maize.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;waxy-maize-tasting-experiment&#34;&gt;Waxy maize tasting experiment&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_05.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;metabolomics-helps-to-reveal-genetic-basis-of-waxy-maize-flavor&#34;&gt;Metabolomics helps to reveal genetic basis of waxy maize flavor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Over 1600 metabolites are qualified in  waxy maize population.&lt;/li&gt;
+&lt;li&gt;84 key metabolites significantly contribute to fresh flavor of waxy maize.&lt;/li&gt;
+&lt;li&gt;458 candidate genes by mGWAS and 2842 expression-flavor-associated genes.&lt;/li&gt;
+&lt;li&gt;Explain totally 74% of the variation of waxy maize flavor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_06.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zmugp1-a-gene-influence-fresh-flavor-of-waxy-maize&#34;&gt;&lt;em&gt;ZmUGP1&lt;/em&gt;, a gene influence fresh flavor of waxy maize&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_07.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement</title>
+      <link>https://jingyunluo.github.io/publication/ng2019/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/ng2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic mechanism of heterosis utilization in maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/the_genetic_mechanism_of_heterosis_utilization/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/the_genetic_mechanism_of_heterosis_utilization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUBIC: an atlas of genetic architecture promises directed maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaizeCUBIC: a comprehensive variation database for a maize synthetic population</title>
+      <link>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</guid>
       <description></description>
     </item>
     
@@ -204,6 +319,30 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Contributions of Zea mays subspecies mexicana haplotypes to modern maize</title>
+      <link>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic architecture of amino acids dissection by association and linkage analysis in maize</title>
+      <link>https://jingyunluo.github.io/publication/pbi-15-1250/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/pbi-15-1250/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize orthologs of rice GS5 and their trans-regulator are associated with kernel development</title>
+      <link>https://jingyunluo.github.io/publication/jipb-2015/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/jipb-2015/</guid>
+      <description></description>
     </item>
     
     <item>

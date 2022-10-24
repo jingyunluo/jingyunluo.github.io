@@ -58,10 +58,11 @@ abstract: Maize is a globally valuable commodity and one of the most extensively
 
 tags:
 - Genomics
-- GWAS
+- teosinte
+- WGS
+- evolution
 
-featured: false
-
+featured: false 
 # links:
 # - name: ""
 #   url: ""
