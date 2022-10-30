@@ -1,10 +1,10 @@
 ---
 title: "The genetic mechanism of heterosis utilization in maize improvement"
 authors:
-- Yingjie Xiao
-- Shuqin Jiang
-- Qian Cheng
-- Xiaqing Wang
+- Yingjie Xiao#
+- Shuqin Jiang#
+- Qian Cheng#
+- Xiaqing Wang#
 - Jun Yan
 - Ruyang Zhang
 - Feng Qiao
@@ -16,9 +16,9 @@ authors:
 - Wenhao Song
 - Yijiang Meng
 - Marilyn L Warburton
-- Jiuran Zhao
-- Xiangfeng Wang
-- Jianbing Yan
+- Jiuran Zhao*
+- Xiangfeng Wang*
+- Jianbing Yan*
 
 date: "2021-05-10T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-021-02370-7"

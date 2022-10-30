@@ -8,7 +8,7 @@ authors:
 - Jingyun Luo
 - Yuancheng Xu
 - Xiaofei Dong
-- Jianbing Yan
+- Jianbing Yan*
 date: "2015-09-26T00:00:00Z"
 doi: "https://doi.org/10.1111/jipb.12421"
 

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/</link>
+      <atom:link href="https://jingyunluo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingyun Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>Jingyun Luo</title>
+      <link>https://jingyunluo.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://jingyunluo.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://jingyunluo.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://jingyunluo.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://jingyunluo.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://jingyunluo.github.io/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome sequencing reveals evidence of adaptive variation in the genus Zea</title>
+      <link>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/genome-sequencing-reveals-evidence-of-adaptive-variation-in-the-genus-zea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pan-Zea genome map for enhancing maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/guist_gb/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/guist_gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZEAMAP, a Comprehensive Database Adapted to the Maize Multi-Omics Era</title>
+      <link>https://jingyunluo.github.io/publication/zeamap/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/zeamap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolomic analysis reveals differences in evolution between maize and rice</title>
+      <link>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target-oriented prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding</title>
+      <link>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genetic and metabolic roadmap to fresh flavor of waxy maize</title>
+      <link>https://jingyunluo.github.io/project/waxy/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/project/waxy/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Waxy maize (&lt;em&gt;Zea mays&lt;/em&gt; L. &lt;em&gt;sinensis Kulesh&lt;/em&gt;), a popular fruit and vegetable crop as well as an important source of micronutrients
+in the human diet, has experienced domestication selection and subsequent genetic improvement during its long cultivation
+history, exhibiting significant divergence from modern regular maize. Comparative omics analyses between 318 waxy maize and
+507 modern regular maize inbred lines revealed obviously divergence between waxy and regular maize. In order to deeply explore
+the metabolic basis of the flavor of waxy maize, over 1600 metabolites are qualified in the waxy maize population. Of which,
+totally 84 key metabolites were identified to significantly contribute to the fresh flavor of waxy maize based on a 100-people
+tasting experiment. These flavor-associated metabolites involved in sugar and sugar derivatives, amino acid-related and some
+secondary metabolites, a total of 458 candidate genes were discovered using genome-wide association study. These flavor-associated
+metabolites and key genes could explain totally 74% of the variation of waxy maize flavor. Our findings shed lights on the historical
+selection of waxy maize, demonstrate the genetic and metabolic basis of the fresh flavor of waxy maize, which provides useful resources
+and knowledge for the high nutritional maize breeding.&lt;/p&gt;
+&lt;h2 id=&#34;the-high-density-variant-map-of-waxy-and-regular-population&#34;&gt;The high-density variant map of waxy and regular population&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;population-structure-of-waxy-and-regular-population&#34;&gt;Population structure of waxy and regular population&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Waxy and regular maize population are relatively independent, and only a few materials “mixed”.&lt;/li&gt;
+&lt;li&gt;The genetic distance is closer between waxy maize with temperate maize lines compared to tropical ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;divergence-on-genomic-and-transcriptional-level&#34;&gt;Divergence on genomic and transcriptional level&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The fixation index value between two panel was 0.025, suggesting the obvious divergence.&lt;/li&gt;
+&lt;li&gt;~39M regions were identified.&lt;/li&gt;
+&lt;li&gt;4462 genes were selection candidates.&lt;/li&gt;
+&lt;li&gt;3365 genes were found differentially expressed in two panels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_03.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;divergent-pathways&#34;&gt;Divergent pathways&lt;/h2&gt;
+&lt;p&gt;Besides the famous known gene waxy1 and starch related pathway, many genes and pathways such as benzoxazinoid and brassinosteroid pathways exhibited to be selected during the breeding history of waxy maize. These divergence in metabolic pathways is probably due to artificial selection of flavor-associated traits of waxy maize.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;waxy-maize-tasting-experiment&#34;&gt;Waxy maize tasting experiment&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_05.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;metabolomics-helps-to-reveal-genetic-basis-of-waxy-maize-flavor&#34;&gt;Metabolomics helps to reveal genetic basis of waxy maize flavor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Over 1600 metabolites are qualified in  waxy maize population.&lt;/li&gt;
+&lt;li&gt;84 key metabolites significantly contribute to fresh flavor of waxy maize.&lt;/li&gt;
+&lt;li&gt;458 candidate genes by mGWAS and 2842 expression-flavor-associated genes.&lt;/li&gt;
+&lt;li&gt;Explain totally 74% of the variation of waxy maize flavor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_06.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;zmugp1-a-gene-influence-fresh-flavor-of-waxy-maize&#34;&gt;&lt;em&gt;ZmUGP1&lt;/em&gt;, a gene influence fresh flavor of waxy maize&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://jingyunluo.github.io/img/project/waxy_07.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement</title>
+      <link>https://jingyunluo.github.io/publication/ng2019/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/ng2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic mechanism of heterosis utilization in maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/the_genetic_mechanism_of_heterosis_utilization/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/the_genetic_mechanism_of_heterosis_utilization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUBIC: an atlas of genetic architecture promises directed maize improvement</title>
+      <link>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/cubic-an-atlas-of-genetic-architecture-promises-directed-maize-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaizeCUBIC: a comprehensive variation database for a maize synthetic population</title>
+      <link>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://jingyunluo.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   **Two** 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three 
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-image&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/img/boards.jpg&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributions of Zea mays subspecies mexicana haplotypes to modern maize</title>
+      <link>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/contributions_of_zea_mays_subspecies_mexicana_hapl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic architecture of amino acids dissection by association and linkage analysis in maize</title>
+      <link>https://jingyunluo.github.io/publication/pbi-15-1250/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/pbi-15-1250/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize orthologs of rice GS5 and their trans-regulator are associated with kernel development</title>
+      <link>https://jingyunluo.github.io/publication/jipb-2015/</link>
+      <pubDate>Sat, 26 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/jipb-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jingyunluo.github.io/cv-zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/cv-zh/</guid>
+      <description>&lt;p&gt;更新于 2022/10/18&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://jingyunluo.github.io/cv/&#34;&gt;English CV here&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;table style=&#34;display: inline-table;&#34;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;籍贯&lt;/td&gt;&lt;td class=&#34;font-has-color&#34;&gt;湖北荆门&lt;/td&gt;
+      &lt;td&gt;出生年月&lt;/td&gt;&lt;td class=&#34;font-has-color&#34;&gt;1993年10月&lt;/td&gt;
+      &lt;td&gt;政治面貌&lt;/td&gt;&lt;td class=&#34;font-has-color&#34;&gt;中共党员&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;电子邮箱&lt;/td&gt;
+      &lt;td colspan=&#34;5&#34;&gt;
+        &lt;a href=&#34;mailto:jingyunluo@foxmail.com&#34;&gt;jingyunluo@foxmail.com&lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;通讯地址&lt;/td&gt;
+      &lt;td colspan=&#34;5&#34; class=&#34;font-has-color&#34;&gt;湖北省武汉市华中农业大学作物遗传改良全国重点实验室&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;教育背景&#34;&gt;教育背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2020.12-至今：华中农业大学作物遗传改良全国重点实验室玉米团队严建兵教授课题组博士后，主要研究方向：&lt;span class=&#34;font-has-color&#34;&gt;多组学大数据分析，基因预测和分子育种，机器学习&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;2011.09-2020.12：华中农业大学生命科学技术学院本硕博连读，获理学博士学位，主要研究方向：&lt;span class=&#34;font-has-color&#34;&gt;群体遗传学和基因组学，GWAS 与 QTL 定位，生物信息分析&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;科研经历&#34;&gt;科研经历&lt;/h2&gt;
+&lt;p&gt;本人博士期间主要从事玉米群体遗传学和大数据组学研究，基于玉米的大型人工合成群体 CUBIC 群体，利用单标记和单倍型全基因组关联分析对 23 个农艺性状
+进行了基因定位并克隆了一个影响叶宽的基因（Liu et al 2020），同时开发了 CUBIC 群体的组学数据整合及分析数据库平台（Luo et al 2020，软件著作权：2019SR0156468）；
+与此同时参与了大量代谢组相关的分析和基因定位工作（Deng et al 2017, Deng et al 2020）；还参与了玉米籽粒等重要性状相关功能基因克隆的部分工作（Liu et al 2015, Yang et al 2019），
+以及杂种优势和基因组预测方便的工作（Xiao et al 2021, Yang et al 2020）。&lt;/p&gt;
+&lt;p&gt;目前，博士后期主要是两个方向的工作，一是&lt;span class=&#34;font-has-color&#34;&gt;结合新技术、大数据分析和新群体设计，解析玉米复杂性状的遗传基础和克隆关键基因&lt;/span&gt;；二是&lt;span class=&#34;font-has-color&#34;&gt;跟踪基因组学等生物
+学研究动态，以统计和机器学习算法为纽带，推动理论研究成果应用于玉米育种&lt;/span&gt;。主要课题有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;主要研究课题是糯玉米鲜食风味的遗传结构和代谢基础的解析，通过将糯玉米群体和普通玉米群体的基因组、转录组以及代谢组数据的结合比较分析，探索糯玉米群体的起源和特有的进化历史，与普通玉米的差别。同时结合了代谢组转录组数据与一个百人品尝的实验，解析糯玉米的风味的独特的代谢和基因水平的分子遗传基础，为糯玉米的遗传改良和分子育种提供帮助。&lt;/li&gt;
+&lt;li&gt;主要参与负责了实验室 507 份玉米自交系关联群体和 184 份大刍草群体的大数据分析工作，包括 DNA-SEQ 基因组数据，RNA-SEQ 转录组数据的分析，群体水平上的选择进化分析和群体适应性分析，重要 QTL 和 eQTL 的定位分析，多组学的结合比较分析等工作。&lt;/li&gt;
+&lt;li&gt;主要负责多组学数据结合机器学习方法预测复杂产量性状的课题，利用现有的多种机器学习方法模型，基于 B73 和 BY804 的 RIL 群体的 167 份材料的表型组数据、以及一些辅助的基因型和 QTL 数据，对于群体的产量相关性状进行预测，提高对于群体产量表型的预测精度。&lt;/li&gt;
+&lt;li&gt;主要参与一个基因组选择和作物模型结合预测产量的合作课题，利用玉米 CUBIC 群体的 300 个有代表性杂交种，在多个环境下收集农艺性状，通过土壤和气象环境数据，建立不同基因型玉米的生长模型，结合全基因组基因型数据，解析生长模型重要参数的遗传机理，构建作物生长模型预测算法，预测玉米不同环境下的表型 （和美国 Auburn 大学合作）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;个人技能&#34;&gt;个人技能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;实验技术
+&lt;ul&gt;
+&lt;li&gt;熟练掌握分子克隆、分子标记检测筛选等多种分子生物学实验技术&lt;/li&gt;
+&lt;li&gt;具有三年的田间种植和管理经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数据分析
+&lt;ul&gt;
+&lt;li&gt;熟悉 Perl 和 R 语言以及 Linux 系统和 shell 脚本&lt;/li&gt;
+&lt;li&gt;熟悉基因组转录组代谢组等多组学的大数据分析工作&lt;/li&gt;
+&lt;li&gt;熟悉群体的突变重组和进化分析等相关生物信息分析&lt;/li&gt;
+&lt;li&gt;熟悉数量性状的基因定位，优良基因鉴定、特定性状遗传机理工作&lt;/li&gt;
+&lt;li&gt;熟悉常用的生物数据库网站及各种生物数据存储格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;英语能力
+&lt;ul&gt;
+&lt;li&gt;通过 CET4 (579分) 和 CET6 (520分)，能较熟练地进行专业英文阅读及写作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;其他技能
+&lt;ul&gt;
+&lt;li&gt;熟练运用微软 office 套件进行写作和展示&lt;/li&gt;
+&lt;li&gt;PS、AI 等图像处理软件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;荣誉奖励&#34;&gt;荣誉奖励&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2014-2015 雷奥奖学金&lt;/li&gt;
+&lt;li&gt;2015 第二届“菲沙杯”生物信息项目设计大赛冠军&lt;/li&gt;
+&lt;li&gt;2015-2016 校“三好研究生”&lt;/li&gt;
+&lt;li&gt;2015-2016 康农种业奖学金&lt;/li&gt;
+&lt;li&gt;2016 全国植物生物学大会墙报展三等奖&lt;/li&gt;
+&lt;li&gt;2021-2023 华中农业大学优秀博士后资助&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;大会报告&#34;&gt;大会报告&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2017 武汉大学华中高校学术交流会三等奖&lt;/li&gt;
+&lt;li&gt;2017 湖北大学生命科学院第三届研究生学术论坛一等奖&lt;/li&gt;
+&lt;li&gt;2021年4月19-21日，第五届全国玉米生物学学术研讨会专题报告，一等奖&lt;/li&gt;
+&lt;li&gt;2021年11月11日，全国.深圳鲜食玉米学术研讨会暨第五届龙田文化玉米节，专家报告&lt;/li&gt;
+&lt;li&gt;2022年4月28日-4月30日，Plant Genomes Online，Selected talks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;基金项目&#34;&gt;基金项目&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;国家自然科学基金委员会，青年科学基金项目，32101773，影响糯玉米鲜食风味基因 ZmBZR1 的功能研究，2022-01-01 至2 024-12-31，30 万元，主持&lt;/li&gt;
+&lt;li&gt;中国博士后科学基金第71批面上资助二等，资助编号：2022M711280，8 万元，主持&lt;/li&gt;
+&lt;li&gt;国家自然科学基金委员会，联合基金项目，U1901201，甜玉米品质遗传基础解析及关键基因挖掘和利用，2020-01-01 至 2023-12-31，262 万元，参与&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;已发表论文&#34;&gt;已发表论文&lt;/h2&gt;
+&lt;p&gt;详见 &lt;a href=&#34;https://jingyunluo.github.io/publication/&#34;&gt;Publications&lt;/a&gt;。&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jingyun Luo, Ph.D.</title>
+      <link>https://jingyunluo.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/cv/</guid>
+      <description>&lt;p&gt;updated at 2022/10/18&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://jingyunluo.github.io/cv-zh/&#34;&gt;查看中文简历&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;present-address&#34;&gt;PRESENT ADDRESS&lt;/h2&gt;
+&lt;p&gt;National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural University, Wuhan 430070, China Shizishan Lu 1#, Hongshan, 430070, Wuhan, China&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:jingyunluo@foxmail.com&#34;&gt;jingyunluo@foxmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;educational-background&#34;&gt;EDUCATIONAL BACKGROUND&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2020-prensent Postdoctor in Crop Science, National key laboratory of crop genetic improvement, Huazhong Agricultural University&lt;/li&gt;
+&lt;li&gt;2017-2020 Ph.D. candidate in Bioinformatics &amp;amp; genetics, National key laboratory of crop genetic improvement, college of life science and technology, Huazhong Agricultural University&lt;/li&gt;
+&lt;li&gt;2011-2015 B.S. in Biological Science, college of life science and technology, Huazhong Agricultural University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;recent-research-fields&#34;&gt;RECENT RESEARCH FIELDS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Population genomics and genetics, typically on the genetic architecture dissection of complex traits in maize and providing useful gene resources and knowledge for breeding&lt;/li&gt;
+&lt;li&gt;NGS applications, majorly on applying whole genome re-sequencing &amp;amp; RNA-seq &amp;amp; metabolic technologies to explore the maize functional genome&lt;/li&gt;
+&lt;li&gt;Evolutionary genomics, especially on plant evolution &amp;amp; adaptation &amp;amp; improvement&lt;/li&gt;
+&lt;li&gt;Bio-data visualization &amp;amp; database construction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;SKILLS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bioinformatics
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: mainly in &lt;code&gt;Perl&lt;/code&gt;, &lt;code&gt;R&lt;/code&gt; and &lt;code&gt;shell scripts&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;NGS/omics-seq analyses: DNA/RNA-seq(Illumina, PB-SMRT/RSII, ONT), ChIP/HiC/WGS/ATAC, metabolic data(LC-MS,GC-MS) etc.&lt;/li&gt;
+&lt;li&gt;Downstream analyses: Population Genetics, Phylogenetics, Genomics, Epigenetics etc.&lt;/li&gt;
+&lt;li&gt;Visualisation: R/ggplot-x, AdobeIllustrator, Photoshop etc.&lt;/li&gt;
+&lt;li&gt;DIY pipelines when necessary: Variation calling, GWAS and post-GWAS etc.&lt;/li&gt;
+&lt;li&gt;Web development: more a designer than a developer, dealing with data more than code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Biological
+&lt;ul&gt;
+&lt;li&gt;Experimental techniques: Proficient in molecular cloning, molecular marker detection and screening and other molecular biology experimental techniques.&lt;/li&gt;
+&lt;li&gt;Three years of field planting and management experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;honors&#34;&gt;HONORS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2013, Shandong Denghai Seeds Co. Scholarship;&lt;/li&gt;
+&lt;li&gt;2014, Dow AgroSciences Scholarship;&lt;/li&gt;
+&lt;li&gt;2015, Leiao Seeds Co. Scholarship;&lt;/li&gt;
+&lt;li&gt;2015, 2th Frasergen Biological Information Project Design Competition, Champion prize;&lt;/li&gt;
+&lt;li&gt;2015-2016, Merit Graduate Student, HZAU;&lt;/li&gt;
+&lt;li&gt;2015-2016 Connong Seed Industry Scholarship;&lt;/li&gt;
+&lt;li&gt;2016, National Plant Biology Conference, 3rd poster award;&lt;/li&gt;
+&lt;li&gt;2020-2023, College of Plant Science, HZAU, Outstanding Postdoctoral funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conference-report&#34;&gt;CONFERENCE REPORT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2017, Academic Exchange Conference in Wuhan University, 3st reporter award;&lt;/li&gt;
+&lt;li&gt;2017, Postgraduate Academic Forum of Life Sciences of Hubei University, 1st reporter award;&lt;/li&gt;
+&lt;li&gt;2021, 5th National Maize Biology Academic Symposium, 1st reporter award;&lt;/li&gt;
+&lt;li&gt;2022, Plant Genomes Online, Selected talks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fund&#34;&gt;FUND&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021-2023, National Natural Science Foundation of China, 32101773, (300,000RMB), host.&lt;/li&gt;
+&lt;li&gt;China Postdoctoral Science Foundation, 2022M711280, (80,000RMB), host.&lt;/li&gt;
+&lt;li&gt;2020-2023National Natural Science Foundation of China, U1901201, (2,620,000RMB), participated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;PUBLICATIONS&lt;/h2&gt;
+&lt;p&gt;Refer to &lt;a href=&#34;https://jingyunluo.github.io/publication/&#34;&gt;Publications&lt;/a&gt; for more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

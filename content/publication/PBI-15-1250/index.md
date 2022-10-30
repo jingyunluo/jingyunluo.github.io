@@ -10,7 +10,7 @@ authors:
 - Xuehai Zhang
 - Minliang Jin
 - Mingchao Zhao
-- Jianbing Yan
+- Jianbing Yan*
 date: "2017-02-20T00:00:00Z"
 doi: "https://doi.org/10.1111/pbi.12712"
 

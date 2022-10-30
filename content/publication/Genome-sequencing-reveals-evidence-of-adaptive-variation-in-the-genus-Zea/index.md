@@ -1,10 +1,10 @@
 ---
 title: "Genome sequencing reveals evidence of adaptive variation in the genus Zea"
 authors:
-- Lu Chen
-- admin
-- Minliang Jin
-- Ning Yang
+- Lu Chen#
+- Jingyun Luo#
+- Minliang Jin#
+- Ning Yang#*
 - Xiangguo Liu
 - Yong Peng
 - Wenqiang Li
@@ -34,8 +34,8 @@ authors:
 - Matthew B. Hufford
 - Alisdair R. Fernie
 - Marilyn L. Warburton
-- Jeffrey Ross-Ibarra
-- Jianbing Yan
+- Jeffrey Ross-Ibarra*
+- Jianbing Yan*
 date: "2022-10-20T00:00:00Z"
 doi: "https://doi.org/10.1038/s41588-022-01184-y"
 

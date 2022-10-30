@@ -13,7 +13,7 @@ authors:
 - Ning Yang
 - Qing Li
 - Alisdair R Fernie
-- Jianbing Yan
+- Jianbing Yan*
 date: "2022-08-23T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-022-02742-7"
 

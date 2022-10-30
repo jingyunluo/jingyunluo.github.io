@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yingjie Xiao* | Jingyun Luo</title>
+    <link>https://jingyunluo.github.io/authors/yingjie-xiao/</link>
+      <atom:link href="https://jingyunluo.github.io/authors/yingjie-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yingjie Xiao*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jingyunluo.github.io/img/logo.gif</url>
+      <title>Yingjie Xiao*</title>
+      <link>https://jingyunluo.github.io/authors/yingjie-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Metabolomic analysis reveals differences in evolution between maize and rice</title>
+      <link>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/dengmin_plant_journal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target-oriented prioritization: targeted selection strategy by integrating organismal and molecular traits through predictive analytics in breeding</title>
+      <link>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/wenyuyangtop_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaizeCUBIC: a comprehensive variation database for a maize synthetic population</title>
+      <link>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/maizecubic-a-comprehensive-variation-database-for-a-maize-synthetic-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic architecture of amino acids dissection by association and linkage analysis in maize</title>
+      <link>https://jingyunluo.github.io/publication/pbi-15-1250/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://jingyunluo.github.io/publication/pbi-15-1250/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

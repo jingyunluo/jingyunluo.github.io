@@ -5,7 +5,7 @@ name_zh: 罗靓赟
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jingyun-luo
 
 # Is this the primary user of the site?
 superuser: true

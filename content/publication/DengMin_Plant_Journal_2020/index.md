@@ -8,7 +8,7 @@ authors:
 - Weiwei Wen
 - Hongbing Luo
 - Jianbing Yan
-- Yingjie Xiao 
+- Yingjie Xiao*
 date: "2022-05-23T00:00:00Z"
 doi: "https://doi.org/10.1111/tpj.14856"
 

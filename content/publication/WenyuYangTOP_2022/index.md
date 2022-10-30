@@ -7,8 +7,8 @@ authors:
 - Ruyang Zhang 
 - Jiuran Zhao 
 - Marilyn L. Warburton 
-- Yingjie Xiao
-- Jianbing Yan
+- Yingjie Xiao*
+- Jianbing Yan*
 date: "2022-03-15T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-022-02650-w"
 

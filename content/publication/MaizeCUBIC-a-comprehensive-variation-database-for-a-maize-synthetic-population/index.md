@@ -8,7 +8,7 @@ authors:
 - Yingjie Xiao
 - Xiaqing Wang
 - Jianbing Yan
-- Jianxiao Liu
+- Jianxiao Liu*
 date: "2020-01-01T00:00:00Z"
 doi: "https://doi.org/10.1093/database/baaa044"
 

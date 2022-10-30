@@ -1,9 +1,9 @@
 ---
 title: "Genome assembly of a tropical maize inbred line provides insights into structural variation and crop improvement"
 authors:
-- Ning Yang
-- Jie Liu
-- Qiang Gao
+- Ning Yang#
+- Jie Liu#
+- Qiang Gao#
 - Songtao Gui
 - Lu Chen
 - Linfeng Yang
@@ -24,7 +24,7 @@ authors:
 - Wenqiang Li
 - Lei Liu 
 - David Jackson
-- Jianbing Yan 
+- Jianbing Yan*
 
 date: "2021-05-31T00:00:00Z"
 doi: "https://doi.org/10.1038/s41588-019-0427-6"

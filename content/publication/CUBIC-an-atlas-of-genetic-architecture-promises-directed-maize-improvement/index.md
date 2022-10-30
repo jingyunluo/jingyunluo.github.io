@@ -1,13 +1,13 @@
 ---
 title: "CUBIC: an atlas of genetic architecture promises directed maize improvement"
 authors:
-- Haijun Liu
-- Xiaqing Wang
-- Yingjie Xiao
-- Jingyun Luo
-- Feng Qiao
-- Wenyu Yang
-- Ruyang Zhang
+- Haijun Liu#
+- Xiaqing Wang#
+- Yingjie Xiao#
+- Jingyun Luo#
+- Feng Qiao#
+- Wenyu Yang#
+- Ruyang Zhang#
 - Yijiang Meng
 - Jiamin Sun
 - Shijuan Yan
@@ -20,8 +20,8 @@ authors:
 - Yanxin Zhao
 - Ya Liu
 - Marilyn L Warburton
-- Jiuran Zhao
-- Jianbing Yan
+- Jiuran Zhao*
+- Jianbing Yan*
 
 date: "2020-01-24T00:00:00Z"
 doi: "https://doi.org/10.1186/s13059-020-1930-x"

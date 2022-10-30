@@ -15,8 +15,8 @@ authors:
 - Yuebin Wang
 - Yabing Zhu
 - Qiang Gao
-- Ning Yang
-- Jianbing Yan
+- Ning Yang*
+- Jianbing Yan*
 date: "2022-06-26T00:00:00Z"
 doi: "https://doi.org/10.1016/j.isci.2020.101241"
 

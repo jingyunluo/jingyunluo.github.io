@@ -1,8 +1,8 @@
 ---
 title: "Contributions of Zea mays subspecies mexicana haplotypes to modern maize"
 authors:
-- Ning Yang
-- Xi-Wen Xu
+- Ning Yang#
+- Xi-Wen Xu#
 - Rui-Ru Wang
 - Wen-Lei Peng
 - Lichun Cai
@@ -20,7 +20,7 @@ authors:
 - Feng Liu
 - David Jackson
 - Xiaohong Yang
-- Ling-Ling Chen
+- Ling-Ling Chen*
 - Jianbing Yan
 
 date: "2017-11-30T00:00:00Z"
