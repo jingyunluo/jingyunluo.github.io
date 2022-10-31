@@ -152,10 +152,10 @@
   translation: Conference paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Participation work
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Representative Work
 
 - id: pub_report
   translation: Report
