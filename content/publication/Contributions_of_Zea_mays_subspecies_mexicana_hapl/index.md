@@ -21,7 +21,7 @@ authors:
 - David Jackson
 - Xiaohong Yang
 - Ling-Ling Chen*
-- Jianbing Yan
+- Jianbing Yangit 
 
 date: "2017-11-30T00:00:00Z"
 doi: "https://doi.org/10.1038/s41467-017-02063-5"
