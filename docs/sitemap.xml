@@ -585,6 +585,9 @@
   </url><url>
     <loc>https://jingyunluo.github.io/cv-zh/</loc>
   </url><url>
+    <loc>https://jingyunluo.github.io/friends/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://jingyunluo.github.io/categories/</loc>
   </url><url>
     <loc>https://jingyunluo.github.io/tags/gene-presence/absence-variation-gpav/</loc>
