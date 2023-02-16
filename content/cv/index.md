@@ -65,6 +65,7 @@ jingyunluo@foxmail.com
 * 2015-2016, Merit Graduate Student, HZAU;
 * 2015-2016 Connong Seed Industry Scholarship;
 * 2016, National Plant Biology Conference, 3rd poster award;
+* 2022, Hubei Postdoctoral Innovation and Entrepreneurship Competition, Winner's Price;
 * 2020-2023, College of Plant Science, HZAU, Outstanding Postdoctoral funding.
 
 ---
